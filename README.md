@@ -9,10 +9,10 @@
 </p>
 
 ### Background Information
-Due to the volatility of cryptocurrency speculation, investors will often try to incorporate sentiment from social media and news articles to help guide their trading strategies. One such indicator is the [Crypto Fear and Greed Index (FNG)](https://zipmex.com/learn/crypto-fear-and-greed-index-explained/) which attempts to use a variety of data sources to produce a daily FNG value for cryptocurrency. I will build and evaluate deep learning models using both the FNG values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
+For this hypothetical reality, pretend I work at a startup that is building a new and disruptive platform called Fintech Finder. Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. As Fintech Finder’s lead developer, I have been tasked with integrating the *Ethereum blockchain network* into the application in order to enable your customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 <br>
 <br>
-In this assignment, I will use ***deep learning recurrent neural networks*** to model bitcoin closing prices. One model will use the *FNG indicators* to predict the closing price while the second model will use a *window of closing prices* to predict the nth closing price.
+In this challenge, I will complete the code that enables my customers to send cryptocurrency payments to fintech professionals. To develop the code and test it out, I will assume the perspective of a Fintech Finder customer who is using the application to find a fintech professional and pay them for their work.
 <br>
 ### Project Files
 Use the following links to jump right into the anaylsis notebook or view results:
