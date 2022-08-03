@@ -18,19 +18,9 @@ In this challenge, I will complete the code that enables my customers to send cr
 Use the following links to jump right into the anaylsis notebook or view results:
 <br>
 <br>
-This notebook contains the [LSTM Stock Predictor from Closing Price](https://github.com/CamGould/Deep_Learning_using_LSTM/blob/main/Coding%20Notebooks/%5B1%5DLSTM_Stock_Predictor_Closing.ipynb)
+This notebook [hosts the functions](https://github.com/CamGould/Blockchain_Wallets/blob/main/Coding%20Notebooks/crypto_wallet.py) I will call into the other notebook
 <br>
-This notebook contains the [LSTM Stock Predictor from FNG Indicators](https://github.com/CamGould/Deep_Learning_using_LSTM/blob/main/Coding%20Notebooks/%5B2%5DLSTM_Stock_Predictor_FNG.ipynb)
-<br>
-<br>
-This graph shows the [price predictions for the closing price model](https://github.com/CamGould/Deep_Learning_using_LSTM/blob/main/Supplemental/Closing_graph.png)
-<br>
-This graph shows the [price predictions for the FNG model](https://github.com/CamGould/Deep_Learning_using_LSTM/blob/main/Supplemental/FNG_graph.png)
-<br>
-<br>
-This file contains the [raw closing prices for BTC](https://github.com/CamGould/Deep_Learning_using_LSTM/blob/main/Supplemental/btc_historic.csv)
-<br>
-This file contains the [raw FNG indicators for BTC](https://github.com/CamGould/Deep_Learning_using_LSTM/blob/main/Supplemental/btc_sentiment.csv)
+This notebook contains the code to run the [Transactions using Blockchain within Streamlit](https://github.com/CamGould/Blockchain_Wallets/blob/main/Coding%20Notebooks/fintech_finder.py)
 
 ### Project Outline and Instructions
 #### Prepare the Data for Training and Testing
