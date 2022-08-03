@@ -1,10 +1,10 @@
-<h1 align="center">Bitcoin Price Prediction Using FNG and Closing Price Indicators</h1>
-<h2 align="center"> A Deep Learning Project with Long Short-Term Memory Networks</h2>
+<h1 align="center">Creating a Blockchain Wallet on a Local Host</h1>
+<h2 align="center">A Hypothetical Solution for Sending Cryptocurrencies to FinTech Professionals</h2>
 <h4 align="center"> Created by <em>Cam Gould</em> for the <em>University of Toronto Fintech BootCamp</em> </h4>
 
 <p align="center">
   <img
-    src="https://github.com/CamGould/Deep_Learning_using_LSTM/blob/main/Supplemental/34084Bitcoin-Article-Cover-Image-3-scaled.jpg?raw=true"
+    src="https://github.com/CamGould/Blockchain_Wallets/blob/main/Supplemental/Streamlit_gif.gif?raw=true"
   >
 </p>
 
